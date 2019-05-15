@@ -1,8 +1,7 @@
-package com.mobiquityinc.packer.conf;
+package com.nettm.packer.conf;
 
-import com.mobiquityinc.packer.FileUtil;
-import com.mobiquityinc.packer.Parser;
-import com.mobiquityinc.packer.packer.Packer;
+import com.nettm.packer.FileUtil;
+import com.nettm.packer.Parser;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.mobiquityinc.packer;
+package com.nettm.packer;
 
 public class Constants {
     public static final int MAX_ALLOWED_WEIGHT = 100;

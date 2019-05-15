@@ -1,8 +1,8 @@
-package com.mobiquityinc.packer;
+package com.nettm.packer;
 
-import com.mobiquityinc.packer.exceptions.APIException;
-import com.mobiquityinc.packer.model.Item;
-import com.mobiquityinc.packer.model.PackageOption;
+import com.nettm.packer.exceptions.APIException;
+import com.nettm.packer.model.Item;
+import com.nettm.packer.model.PackageOption;
 
 import java.util.ArrayList;
 import java.util.List;

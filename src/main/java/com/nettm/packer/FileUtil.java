@@ -1,4 +1,4 @@
-package com.mobiquityinc.packer;
+package com.nettm.packer;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.mobiquityinc.packer.model;
+package com.nettm.packer.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,11 +1,11 @@
-package com.mobiquityinc.packer.packer;
+package com.nettm.packer.packer;
 
-import com.mobiquityinc.packer.FileUtil;
-import com.mobiquityinc.packer.Parser;
-import com.mobiquityinc.packer.exceptions.APIException;
-import com.mobiquityinc.packer.model.Item;
-import com.mobiquityinc.packer.model.PackagedItem;
-import com.mobiquityinc.packer.model.PackageOption;
+import com.nettm.packer.FileUtil;
+import com.nettm.packer.Parser;
+import com.nettm.packer.exceptions.APIException;
+import com.nettm.packer.model.Item;
+import com.nettm.packer.model.PackagedItem;
+import com.nettm.packer.model.PackageOption;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
